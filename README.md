@@ -6,7 +6,7 @@ It also has a configuration file which allows you to install different MSOffice 
 By editing the configuration file you can also exclude some part of MSOffice programs like Outlook, Groove Music, Lynx etc.
 
 # How to use
-1. Just download zip the repository and run the "Run me to install.cmd" with admin privilege to install MSOffice 365. Don't forget to edit the config file if you want to install it on different language or machine architecture etc.
+1. Just download the repository and run the "Run me to install.cmd" with admin privilege to install MSOffice 365. Don't forget to edit the config file if you want to install it on different language or machine architecture etc.
 
 2. Open kms.txt and follow the instructions.
 
