@@ -1,6 +1,9 @@
 # MSOffice365-KMS
 This repository allows you do download MSOffice 365 with KMS activation based on the Deployment Tool for Office 365 tool by Microsoft.
-It also has a configuration file which allows you to install different MSOffice versions, architectures and language. You can also exclude some part of MSOffice programs like Outlook, Groove Music, Lynx etc.
+
+It also has a configuration file which allows you to install different MSOffice versions, architectures and language. 
+
+By editing the configuration file you can also exclude some part of MSOffice programs like Outlook, Groove Music, Lynx etc.
 
 # How to use
 Just download zip the repository and run the "Run me to install.cmd" with admin privilege.
