@@ -1,4 +1,4 @@
-# MSOffice365-KMS
+# MSOffice365-KMS Activated
 This repository allows you do download MSOffice 365 with KMS activation based on the Deployment Tool for Office 365 tool by Microsoft.
 
 It also has a configuration file which allows you to install different MSOffice versions, architectures and language. 
