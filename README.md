@@ -13,4 +13,4 @@ It also has a configuration file which allows you to install different MSOffice 
 You can edit the contents of the file "config.xml" according to your own preference. Comments are already included on the XML file to guide you on the customization.
 
 # License
-This repository is based on msguides.com. We are not affilated by any means on MSGuides or Microsoft.
+This repository is only a compilation of MSOffice Deployment tool by Microsoft and KMS Activation by msguides.com. We are not affilated by any means on MSGuides or Microsoft.
