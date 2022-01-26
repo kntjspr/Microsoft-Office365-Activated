@@ -1,16 +1,20 @@
 # MSOffice365-KMS Activated
-This repository allows you do download MSOffice 365 based on the Deployment Tool for Office 365 tool by Microsoft but with a twist. It includes a KMS activation to get MSOffice 365 for free.
+This repository allows you to download MS Office 365 based on the Deployment Tool for Office 365 tool by Microsoft but with a twist. It includes a KMS activation to get MS Office 365 for free.
 
-It also has a configuration file which allows you to install different MSOffice versions, architectures and language and exclude some part of MSOffice programs like Outlook, Groove Music, Lynx etc.
+It also has a configuration file that allows you to install different MSOffice versions, architectures, and language and exclude some parts of MSOffice programs like Outlook, Groove Music, Lynx, etc.
 
 # How to use
-1. Just download the repository and run the "Run me to install.cmd" with admin privilege to install MSOffice 365. Don't forget to edit the config file if you want to install it on different language or machine architecture etc.
+1. To install MS Office 365, simply grab the repo and run the "Run me to install. cmd" script with administrator rights.
+Don't forget to update the configuration file if you wish to install it in a different language or on different system architecture, for example. 
+
 
 # KMS Activation
 1. Open kms.txt and paste each line one by one.
 
 # Configuration
-You can edit the contents of the file "config.xml" according to your own preference. Comments are already included on the XML file to guide you on the customization.
+You can customize the contents of the file "config.xml" to your liking. 
+The XML file has comments to aid you through the customizing process. 
 
 # License
-This repository is only a compilation of MSOffice Deployment tool by Microsoft and KMS Activation by msguides.com. We are not affilated by any means on MSGuides or Microsoft.
+This repository is simply a collection of Microsoft's MSOffice Deployment tool and msguides.com's KMS Activation.
+We have no affiliation with MSGuides or Microsoft. 
