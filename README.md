@@ -1,5 +1,5 @@
 # MSOffice365-KMS Activated
-This repository allows you to download MS Office 365 based on the Deployment Tool for Office 365 tool by Microsoft but with a twist. It includes a KMS activation to get MS Office 365 for free.
+It downloads MS Office 365 based on the Deployment Tool for Office 365 tool by Microsoft but with a twist. It includes a KMS activation to get MS Office 365 for free.
 
 It also has a configuration file that allows you to install different MSOffice versions, architectures, and language and exclude some parts of MSOffice programs like Outlook, Groove Music, Lynx, etc.
 
