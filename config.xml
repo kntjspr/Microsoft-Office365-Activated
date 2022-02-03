@@ -1,9 +1,8 @@
 <Configuration>
   <Add OfficeClientEdition="64">
-<!-- You can use either "64" for x64 and "32" for x86 versions of msoffice -->
     <Product ID="O365ProPlusRetail">
-<!-- You can use different product id if you want to use another msoffice versions using this link https://docs.microsoft.com/en-us/office365/troubleshoot/installation/product-ids-supported-office-deployment-click-to-run?redirectSourcePath=%252fen-US%252farticle%252f77654e77-aaeb-4ed6-84eb-1d8b0e086590 --->   
-   <Language ID="en-us" />  
+      <Language ID="en-us" />
+        
       <ExcludeApp ID="Access" />
       <ExcludeApp ID="InfoPath" />
       <ExcludeApp ID="Lync" />
@@ -21,4 +20,3 @@
   </Add>
   <Display Level="Full" AcceptEULA="TRUE" />
 </Configuration>
-
