@@ -15,6 +15,10 @@ Don't forget to update the configuration file if you wish to install it in a dif
 You can customize the contents of the file "config.xml" to your liking. 
 The XML file has comments to aid you through the customizing process. 
 
+# Screenshot
+
+![image](https://user-images.githubusercontent.com/65537922/158662035-bff169a2-511c-4391-a7bd-2aabafbc5b05.png)
+
 # License
 This repository is simply a collection of Microsoft's MSOffice Deployment tool and msguides.com's KMS Activation.
 We have no affiliation with MSGuides or Microsoft. 
