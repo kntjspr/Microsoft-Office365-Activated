@@ -6,16 +6,13 @@
       <ExcludeApp ID="Access" />
       <ExcludeApp ID="InfoPath" />
       <ExcludeApp ID="Lync" />
-      <ExcludeApp ID="OneNote" />
       <ExcludeApp ID="Outlook" />
       <ExcludeApp ID="Project" />
-      <ExcludeApp ID="Publisher" />
       <ExcludeApp ID="SharePointDesigner" />
       <ExcludeApp ID="OneDrive" />
       <ExcludeApp ID="Visio" />
       <ExcludeApp ID="Skype" />
       <ExcludeApp ID="Skypeforbusiness" />
-      <ExcludeApp ID="Groove" />
 	<ExcludeApp ID="Teams" />
        
     </Product>
