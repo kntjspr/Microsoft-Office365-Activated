@@ -1,7 +1,4 @@
-Paste EACH line manually on command prompt. Make sure to run it as administrator!
-Make sure that MSOffice 365 is already installed on your machine, If you still didn't do so open the cmd file.
-Change it into "cd /d %ProgramFiles%\%programfiles(x86)%\Microsoft Office\Office16" if your msoffice was installed in x86 or 32bits!
-====================================START HERE================================
+cd /d %ProgramFiles(x86)%\Microsoft Office\Office16
 cd /d %ProgramFiles%\Microsoft Office\Office16
 for /f %x in ('dir /b ..\root\Licenses16\proplusvl_kms*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%x"
 cscript ospp.vbs /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99
