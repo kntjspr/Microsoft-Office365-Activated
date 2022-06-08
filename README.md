@@ -16,5 +16,5 @@ The XML file has comments to aid you through the customizing process.
 ![image](https://user-images.githubusercontent.com/65537922/158662035-bff169a2-511c-4391-a7bd-2aabafbc5b05.png)
 
 # License
-This repository is simply a collection of Microsoft's MSOffice Deployment tool and msguides.com's KMS Activation.
-We have no affiliation with MSGuides or Microsoft. 
+This repository is simply a script of Microsoft's MSOffice Deployment tool and msguides.com's KMS Activation.
+We have no affiliation with MSGuides or Microsoft Corporation. 
